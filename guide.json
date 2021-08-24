@@ -2,7 +2,7 @@
   "GuideData": {
     "AdsController": 
       {
-        "NetworkAds": "facebook",
+        "NetworkAds": "mix",
 
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
@@ -13,7 +13,7 @@
         "NativeFacebook": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
         "NativeFacebookSingle": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
 		
-        "ImageBanner": false,
+        "ImageBanner": true,
         "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
         "ImageBannerURL" : "https://www.google.com"
 		
@@ -31,7 +31,7 @@
         "image_link": "https://www.google.com",
         "text": "sdsdasdsdasd ssa dadas dasd",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#404540"
       },
       {
         "title": "The Old 2",
@@ -44,7 +44,7 @@
         "image_link": "",
         "text": "Dark Meadow : The Pact",
         "isNative": false,
-		"background": "#00FF00"
+		"background": "#2f302f"
       },
       {
         "title": "Call of Cthulhu: Wasted Land ",
