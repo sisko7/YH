@@ -16,9 +16,9 @@
       "appodeal_app_key" : ""
     },
     "facebook" : {
-      "facebook_banner_id" : "",
-      "facebook_interstitial_id" : "",
-      "facebook_native_id" : ""
+      "facebook_banner_id" : "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+      "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+      "facebook_native_id" : "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
     },
     "mode_ads_banner" : "facebook",
     "mode_ads_interstitial" : "facebook",
