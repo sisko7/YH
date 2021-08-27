@@ -47,7 +47,7 @@
       "id" : 0,
       "imageURL" : "https://www.levelwinner.com/wp-content/uploads/2021/05/scary-teacher-3d-menu-800x450-1.jpg",
       "state" : "free",
-      "title" : "Test title 0",
+      "title" : "Knowing Your Tools And Traps",
       "description" : "",
       "written" : "<p><strong>Scary Teacher</strong> <strong>3D</strong> is a stealth game developed my Z &amp; K Games where you get some much-deserved revenge against your teacher Miss T, who is quite harsh on your fellow classmates. Deciding to get even, you sneak into her house to set up all sorts of tricks and pranks to ruin her day. Of course, you will have to avoid her presence while you perform your stunts.</p>
 <p>Though Scary Teacher 3D features up to 10 locations to play in as of writing, only Miss T&rsquo;s house is unlocked from the start.&nbsp; Three of these locations can be unlocked by watching enough ads, but the remaining six locations are only acquired via in-app purchases. Because of this, our guide will only cover Miss T&rsquo;s house. Regardless, our guide should be sufficient in teaching you what sort of tricks your character has up their sleeve.</p>
@@ -74,7 +74,7 @@
     {
       "id" : 3,
       "imageURL" : "https://www.levelwinner.com/wp-content/uploads/2021/05/scary-teacher-3d-breakfast-800x450-1.jpg",
-      "state" : "vip",
+      "state" : "free",
       "title" : "Prank 2: Breakfast For Bad People",
       "description" : "",
       "written" : "<p>Your second prank has you ruin Miss T&rsquo;s morning cereal and at this point you are on your own. The game introduces gadgets you can use to turn the tide, ranging from energy refills to traps that stun Miss T. To equip a gadget, select it and watch an ad, and you can activate your gadget by pressing a button to the left of your inventory.</p>
@@ -134,8 +134,8 @@
 <h3>An Uninvited Guest, Part Two</h3>
 <p>This section contains the last seven pranks you can perform at Miss T&rsquo;s house.</p>"
     },
-	    {
-      "id" : 7,
+	{
+      "id" : 9,
       "imageURL" : "https://www.levelwinner.com/wp-content/uploads/2021/05/scary-teacher-3d-spider-gloves-800x450-1.jpg",
       "state" : "vip",
       "title" : "Prank 8: The Pop-Up Book",
@@ -145,7 +145,7 @@
 <p>Though the opening cutscene depicts Miss T in the TV room, her favored book is actually in the study, located on the first floor near the kitchen. Place the spider on the book and head to safety. The words from that book just seem to leap from the page.</p>"
     },
 	    {
-      "id" : 7,
+      "id" : 10,
       "imageURL" : "https://www.levelwinner.com/wp-content/uploads/2021/05/scary-teacher-3d-shampoo-800x450-1.jpg",
       "state" : "vip",
       "title" : "Prank 9: Sham-poo",
@@ -157,7 +157,7 @@
 <p>Once you have interacted with Miss T&rsquo;s shampoo, she will head back to the bathroom. If you do the prank right it will be more than dirt that will be washed off.</p>"
     },
 	    {
-      "id" : 7,
+      "id" : 11,
       "imageURL" : "https://www.levelwinner.com/wp-content/uploads/2021/05/scary-teacher-3d-chair-saw-800x450-1.jpg",
       "state" : "vip",
       "title" : "Prank 10: The Chair Catastrophe",
@@ -166,9 +166,8 @@
 <p>Since the chair is made out of wood, we will need to find a saw to cut off a leg. You can find a saw in the shed, and its location means that you can reach the backyard quickly once Miss T has entered the kitchen. Just be careful and try not to get spotted as you head there.</p>
 <p>Now, the game does not identify what chair Miss T plans to use, but it just so happens to be the blue chair closest to the side table. Move to the right side of the chair and use the saw. Once any of the deck chairs have been tampered with, Miss T will head back to the pool. Given your location, it is best to leave the backyard via the path closest to you. The chosen chair might change colors after you mess with it, but Miss T&rsquo;s decision is final.</p>"
     },
-	    },
 	    {
-      "id" : 7,
+      "id" : 12,
       "imageURL" : "https://www.levelwinner.com/wp-content/uploads/2021/05/scary-teacher-3d-fireplace-gas-800x450-1.jpg",
       "state" : "vip",
       "title" : "Prank 11: Fireplace Foolery",
