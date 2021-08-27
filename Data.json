@@ -47,7 +47,7 @@
       "id" : 0,
       "imageURL" : "https://www.levelwinner.com/wp-content/uploads/2021/05/scary-teacher-3d-menu-800x450-1.jpg",
       "state" : "free",
-      "title" : "Test title 0",
+      "title" : "Knowing Your Tools And Traps",
       "description" : "",
       "written" : "<p><strong>Scary Teacher</strong> <strong>3D</strong> is a stealth game developed my Z &amp; K Games where you get some much-deserved revenge against your teacher Miss T, who is quite harsh on your fellow classmates. Deciding to get even, you sneak into her house to set up all sorts of tricks and pranks to ruin her day. Of course, you will have to avoid her presence while you perform your stunts.</p>
 <p>Though Scary Teacher 3D features up to 10 locations to play in as of writing, only Miss T&rsquo;s house is unlocked from the start.&nbsp; Three of these locations can be unlocked by watching enough ads, but the remaining six locations are only acquired via in-app purchases. Because of this, our guide will only cover Miss T&rsquo;s house. Regardless, our guide should be sufficient in teaching you what sort of tricks your character has up their sleeve.</p>
@@ -124,11 +124,15 @@
     },
     {
       "id" : 8,
-      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
+      "imageURL" : "https://www.levelwinner.com/wp-content/uploads/2021/05/scary-teacher-3d-cake-candle-800x450-1.jpg",
       "state" : "vip",
-      "title" : "Test title 8",
+      "title" : "Prank 7: Birthday Surprise",
       "description" : "",
-      "written" : "Test written 8"
+      "written" : "<p>It is Miss T&rsquo;s birthday, and she has a small cake with a large candle, one that could be swapped out for a firecracker while her back is turned&hellip;</p>
+<p>You can find a firecracker in the shed once more, but you can find another firecracker in the kitchen. Either way, once you have it, head to the living room and swap out the candle for the firecracker. This will not be enough to fool Miss T however.</p>
+<p>On the coffee table are a couple of ribbon rolls, each a different color. Find the roll that matches the candle, in this case the blue ribbon, and use it on the firecracker to disguise it. Miss T will start heading back to her cake once the candle has been swapped so act quickly. We would not want to ruin the surprise&hellip;</p>
+<h3>An Uninvited Guest, Part Two</h3>
+<p>This section contains the last seven pranks you can perform at Miss T&rsquo;s house.</p>"
     }
   ]
 }
