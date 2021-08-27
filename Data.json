@@ -74,7 +74,7 @@
     {
       "id" : 3,
       "imageURL" : "https://www.levelwinner.com/wp-content/uploads/2021/05/scary-teacher-3d-breakfast-800x450-1.jpg",
-      "state" : "vip",
+      "state" : "free",
       "title" : "Prank 2: Breakfast For Bad People",
       "description" : "",
       "written" : "<p>Your second prank has you ruin Miss T&rsquo;s morning cereal and at this point you are on your own. The game introduces gadgets you can use to turn the tide, ranging from energy refills to traps that stun Miss T. To equip a gadget, select it and watch an ad, and you can activate your gadget by pressing a button to the left of your inventory.</p>
@@ -124,58 +124,11 @@
     },
     {
       "id" : 8,
-      "imageURL" : "https://www.levelwinner.com/wp-content/uploads/2021/05/scary-teacher-3d-cake-candle-800x450-1.jpg",
+      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ndoOlwykGm4me3oEsTw3FqXGWd8Zm6_OOw&usqp=CAU",
       "state" : "vip",
-      "title" : "Prank 7: Birthday Surprise",
+      "title" : "Test title 8",
       "description" : "",
-      "written" : "<p>It is Miss T&rsquo;s birthday, and she has a small cake with a large candle, one that could be swapped out for a firecracker while her back is turned&hellip;</p>
-<p>You can find a firecracker in the shed once more, but you can find another firecracker in the kitchen. Either way, once you have it, head to the living room and swap out the candle for the firecracker. This will not be enough to fool Miss T however.</p>
-<p>On the coffee table are a couple of ribbon rolls, each a different color. Find the roll that matches the candle, in this case the blue ribbon, and use it on the firecracker to disguise it. Miss T will start heading back to her cake once the candle has been swapped so act quickly. We would not want to ruin the surprise&hellip;</p>
-<h3>An Uninvited Guest, Part Two</h3>
-<p>This section contains the last seven pranks you can perform at Miss T&rsquo;s house.</p>"
-    },
-	    {
-      "id" : 7,
-      "imageURL" : "https://www.levelwinner.com/wp-content/uploads/2021/05/scary-teacher-3d-spider-gloves-800x450-1.jpg",
-      "state" : "vip",
-      "title" : "Prank 8: The Pop-Up Book",
-      "description" : "",
-      "written" : "<p>Miss T is getting ready to read her favorite book, so let us give her another surprise by placing a spider between its pages</p>
-<p>The spider itself can be found in a &ldquo;torture room&rdquo; near the gym, but the game warns you that the spider bites; you will need to find some gloves before handling the spider. Head to the workshop to find a pair of gloves sitting on the desk, and head to the torture room to pick up the spider, which is in a glass case atop a table.</p>
-<p>Though the opening cutscene depicts Miss T in the TV room, her favored book is actually in the study, located on the first floor near the kitchen. Place the spider on the book and head to safety. The words from that book just seem to leap from the page.</p>"
-    },
-	    {
-      "id" : 7,
-      "imageURL" : "https://www.levelwinner.com/wp-content/uploads/2021/05/scary-teacher-3d-shampoo-800x450-1.jpg",
-      "state" : "vip",
-      "title" : "Prank 9: Sham-poo",
-      "description" : "",
-      "written" : "<p>Miss T&rsquo;s taking a bath. While she is not looking, you will sabotage her shampoo bottle. Her bathroom is on the second floor next to her bedroom, and should not be mistaken for a similar bathroom on the opposite side.</p>
-<p>There are at least two ways to tamper with her shampoo, which is placed on the bathroom sink:</p>
-<p>The first method, and the fastest one, is to head to the bathroom and look for a bottle labeled &ldquo;Hair Removal Cream&rdquo; on the sink. Pick it up and pour it into her shampoo. There is also a bottle of hair dye nearby but do not use that one, as she will take a liking to her new hair color and you fail the prank in the process.</p>
-<p>The second method is via a tube of glue on the workshop desk, the same place where the gloves from the previous prank were located.</p>
-<p>Once you have interacted with Miss T&rsquo;s shampoo, she will head back to the bathroom. If you do the prank right it will be more than dirt that will be washed off.</p>"
-    },
-	    {
-      "id" : 7,
-      "imageURL" : "https://www.levelwinner.com/wp-content/uploads/2021/05/scary-teacher-3d-chair-saw-800x450-1.jpg",
-      "state" : "vip",
-      "title" : "Prank 10: The Chair Catastrophe",
-      "description" : "",
-      "written" : "<p>What a nice, sunny day to relax, and Miss T has picked out a particular deck chair to lie down on. Let us ruin it.</p>
-<p>Since the chair is made out of wood, we will need to find a saw to cut off a leg. You can find a saw in the shed, and its location means that you can reach the backyard quickly once Miss T has entered the kitchen. Just be careful and try not to get spotted as you head there.</p>
-<p>Now, the game does not identify what chair Miss T plans to use, but it just so happens to be the blue chair closest to the side table. Move to the right side of the chair and use the saw. Once any of the deck chairs have been tampered with, Miss T will head back to the pool. Given your location, it is best to leave the backyard via the path closest to you. The chosen chair might change colors after you mess with it, but Miss T&rsquo;s decision is final.</p>"
-    },
-	    },
-	    {
-      "id" : 7,
-      "imageURL" : "https://www.levelwinner.com/wp-content/uploads/2021/05/scary-teacher-3d-fireplace-gas-800x450-1.jpg",
-      "state" : "vip",
-      "title" : "Prank 11: Fireplace Foolery",
-      "description" : "",
-      "written" : "<p>Miss T has lit up her fireplace near the kitchen, and merely extinguishing it is not enough. We are going to give that fireplace an extra kick.</p>
-<p>Now, you can extinguish the fireplace by locating a pitcher of water and pouring it onto the fire. That pitcher is on a kitchen counter. However, Miss T will move back to the fireplace to light it up, so we will need to locate that extra kick before anything else.</p>
-<p>In the torture room, there is a can of kerosene on the table, on the same spot where the spider was, so pick that can up. With the kerosene in hand, head to the kitchen and pick up the pitcher. Work quickly and extinguish the fire with the pitcher, then select the kerosene and pour it on the fireplace. Get out of sight and watch that kick come in.</p>"
+      "written" : "Test written 8"
     }
   ]
 }
