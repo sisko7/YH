@@ -20,8 +20,8 @@
       "facebook_interstitial_id" : "269317424725117_274239297566263",
       "facebook_native_id" : "269317424725117_274239434232916"
     },
-    "mode_ads_banner" : "facebook",
-    "mode_ads_interstitial" : "facebook",
+    "mode_ads_banner" : "admob",
+    "mode_ads_interstitial" : "unity",
     "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "admob",
     "mode_button_ads_action" : "0",
