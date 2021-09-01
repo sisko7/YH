@@ -1,9 +1,9 @@
 {
   "config" : {
     "adcolony" : {
-      "adcolony_app_id" : "",
-      "adcolony_interstitial_id" : "",
-      "adcolony_rewarded_id" : ""
+      "adcolony_app_id" : "appa2ad0274677044308b",
+      "adcolony_interstitial_id" : "vze9cdf9946be542ec86",
+      "adcolony_rewarded_id" : "vz3e11647632e9495ebe"
     },
     "admob" : {
       "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
@@ -16,9 +16,9 @@
       "appodeal_app_key" : "d019b3d44e9bce48c1d13bb57f9f35af7841d0df20acddc8"
     },
     "facebook" : {
-      "facebook_banner_id" : "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
-      "facebook_interstitial_id" : "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
-      "facebook_native_id" : "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+      "facebook_banner_id" : "269317424725117_274235900899936",
+      "facebook_interstitial_id" : "269317424725117_274239297566263",
+      "facebook_native_id" : "269317424725117_274239434232916"
     },
     "mode_ads_banner" : "appodeal",
     "mode_ads_interstitial" : "appodeal",
@@ -26,10 +26,10 @@
     "mode_ads_rewarded" : "appodeal",
     "mode_button_ads_action" : "0",
     "unity" : {
-      "unity_app_id" : "",
-      "unity_banner_id" : "",
-      "unity_interstitial_id" : "",
-      "unity_rewarded_id" : ""
+      "unity_app_id" : "4290167",
+      "unity_banner_id" : "Banner_Android",
+      "unity_interstitial_id" : "Interstitial_Android",
+      "unity_rewarded_id" : "Rewarded_Android"
     },
     "update" : {
       "enable_update_closed" : true,
