@@ -6,9 +6,9 @@
       "adcolony_rewarded_id" : "vz3e11647632e9495ebe"
     },
     "admob" : {
-      "admob_banner_id" : "ca-app-pub-3940256099942544/6300978111",
+      "admob_banner_id" : "ca-app-pub-9205303718600031/3685394999",
       "admob_interstitial_id" : "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_id" : "ca-app-pub-3940256099942544/2247696110",
+      "admob_native_id" : "ca-app-pub-9205303718600031/4068538374",
       "admob_rewarded_id" : "ca-app-pub-9205303718600031/5217968519",
       "admob_unit_id" : ""
     },
@@ -20,11 +20,11 @@
       "facebook_interstitial_id" : "269317424725117_274239297566263",
       "facebook_native_id" : "269317424725117_274239434232916"
     },
-    "mode_ads_banner" : "appodeal",
-    "mode_ads_interstitial" : "appodeal",
+    "mode_ads_banner" : "admob",
+    "mode_ads_interstitial" : "unity",
     "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "unity",
-    "mode_button_ads_action" : "0",
+    "mode_button_ads_action" : "1",
     "unity" : {
       "unity_app_id" : "4290167",
       "unity_banner_id" : "Banner_Android",
@@ -74,7 +74,7 @@
     {
       "id" : 3,
       "imageURL" : "https://www.levelwinner.com/wp-content/uploads/2021/05/scary-teacher-3d-breakfast-800x450-1.jpg",
-      "state" : "free",
+      "state" : "vip",
       "title" : "Prank 2: Breakfast For Bad People",
       "description" : "",
       "written" : "<p>Your second prank has you ruin Miss T&rsquo;s morning cereal and at this point you are on your own. The game introduces gadgets you can use to turn the tide, ranging from energy refills to traps that stun Miss T. To equip a gadget, select it and watch an ad, and you can activate your gadget by pressing a button to the left of your inventory.</p>
