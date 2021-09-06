@@ -23,7 +23,7 @@
     "mode_ads_banner" : "admob",
     "mode_ads_interstitial" : "unity",
     "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "admob",
+    "mode_ads_rewarded" : "unity",
     "mode_button_ads_action" : "3",
     "unity" : {
       "unity_app_id" : "4290167",
