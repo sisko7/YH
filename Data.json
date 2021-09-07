@@ -20,10 +20,10 @@
       "facebook_interstitial_id" : "269317424725117_274239297566263",
       "facebook_native_id" : "269317424725117_274239434232916"
     },
-    "mode_ads_banner" : "admob",
+    "mode_ads_banner" : "unity",
     "mode_ads_interstitial" : "unity",
     "mode_ads_native_enabled" : true,
-    "mode_ads_rewarded" : "admob",
+    "mode_ads_rewarded" : "unity",
     "mode_button_ads_action" : "3",
     "unity" : {
       "unity_app_id" : "4290167",
