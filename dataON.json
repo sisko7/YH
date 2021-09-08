@@ -49,6 +49,76 @@
   [
   {
     "id": "1",
+    "name_category": "kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/e9/28/f4/e928f401e9b0dd07822ff9259c51efe5.jpg"
+  },
+  {
+    "id": "2",
+    "name_category": "kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/6b/7e/41/6b7e41ea8bada7eface7b7daf3903808.jpg"
+  },
+  {
+    "id": "3",
+    "name_category": "kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/37/2b/a6/372ba624355d1fa288abcbd266db9995.jpg"
+  },
+    {
+    "id": "4",
+    "name_category": "kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/c3/c9/1f/c3c91f2846670fb8230594866ad553c2.jpg.jpg"
+  },
+    {
+    "id": "5",
+    "name_category": "kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/50/5e/eb/505eeb93660d4a685ae7cd0547024776.jpg"
+  },
+    {
+    "id": "6",
+    "name_category": "kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/f1/8f/19/f18f19d2d71b70bf4717bb1971352789.jpg"
+  },
+    {
+    "id": "7",
+    "name_category": "kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/5d/97/12/5d971275d5978c63276c21e403cc98fa.jpg"
+  },
+    {
+    "id": "8",
+    "name_category": "kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/ad/e4/72/ade4726f188c63ab07d953e0e1881488.jpg"
+  },
+    {
+    "id": "9",
+    "name_category": "kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/48/cb/66/48cb66a1e9f12695e28f4bf6e01382c2.jpg"
+  },
+  {
+    "id": "10",
+    "name_category": "kdrama",
+    "title": "",
+
+    "image": "https://i.pinimg.com/564x/bc/9a/c2/bc9ac2e50931e3b904d7b40e98d01fb6.jpg"
+  },
+  {
+    "id": "1",
     "name_category": "kpop",
     "title": "",
 
